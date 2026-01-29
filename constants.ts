@@ -189,22 +189,27 @@ export const ACHIEVEMENTS: Achievement[] = [
   },
   {
     id: 'mostra',
-    title: 'İTÜ Mostra Hackathon Jüri Özel Ödülü ve Uyumsoft Stajı',
+    title: 'İTÜ MostrAI Hackathon Jüri Özel Ödülü ve Uyumsoft Stajı',
     image: 'mostra.jpeg'
   },
   {
     id: 'teknofest',
-    title: 'Teknofest Sağlıkta YZ Yarışması Türkiye 3.lüğü',
+    title: 'Teknofest Sağlıkta Yapay Zeka Yarışması Türkiye 3.lüğü ve En İyi Sunum Ödülü',
     image: 'teknofest.jpeg'
   },
   {
     id: 'basaksehir',
-    title: 'Başakşehir Living Lab Yarışması Türkiye 2.liği',
+    title: 'Başakşehir Living Lab İnovasyon Yarışması Türkiye 2.liği',
     image: 'basaksehir.jpeg'
   },
   {
-    id: 'eucodeweek',
-    title: 'EUCodeWeek Hackathon Türkiye 1.liği',
+    id: 'eucodeweektr',
+    title: 'EUCodeWeek Türkiye Hackathon 1.liği',
+    image: 'eucodeweek.jpeg'
+  },
+  {
+    id: 'eucodeweekeu',
+    title: 'Uluslararası EUCodeWeek Hackathon Türkiye Temsilciliği',
     image: 'eucodeweek.jpeg'
   }
 ];
@@ -213,7 +218,7 @@ export const ACHIEVEMENTS: Achievement[] = [
 export const PARTNERS: Partner[] = [
   { id: 'pertev', name: 'Pertevniyal Lisesi', logo: 'pertev.png' },
   { id: 'cgm', name: 'ODTÜ MEMS Merkezi', logo: 'mems.png' },
-  { id: 'gsb', name: 'Gençlik ve Spor Bakanlığı', logo: 'gsb.png' },
+  { id: 'gsb', name: 'T.C. Gençlik ve Spor Bakanlığı', logo: 'gsb.png' },
   { id: 'ag', name: 'Asrın Global', logo: 'ag.png' },
 ];
 
