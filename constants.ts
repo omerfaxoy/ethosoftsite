@@ -208,6 +208,11 @@ export const ACHIEVEMENTS: Achievement[] = [
     id: 'eucodeweek',
     title: 'EUCodeWeek Hackathon Türkiye 1.liği',
     image: 'eucodeweek.jpeg'
+  },
+  {
+    id: 'tuaastroist',
+    title: 'TUA Astro Hackathon İstanbul Avrupa 1.liği',
+    image: 'tuaastroist.jpg'
   }
 ];
 
@@ -217,6 +222,9 @@ export const PARTNERS: Partner[] = [
   { id: 'cgm', name: 'ODTÜ MEMS Merkezi', logo: 'mems.png' },
   { id: 'gsb', name: 'Gençlik ve Spor Bakanlığı', logo: 'gsb.png' },
   { id: 'ag', name: 'Asrın Global', logo: 'ag.png' },
+  { id: 'ag', name: 'TÜBİTAK ULAKBİM', logo: 'tübitak.png' },
+  { id: 'ag', name: 'TRUBA', logo: 'truba.png' },
+  { id: 'ag', name: 'Recall.ai', logo: 'recall.png' }
 ];
 
 export const CONTACT_INFO = {
